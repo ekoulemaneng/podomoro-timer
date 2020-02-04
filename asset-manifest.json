@@ -1,0 +1,16 @@
+{
+  "main.css": "/podomoro-timer/static/css/main.27618c48.chunk.css",
+  "main.js": "/podomoro-timer/static/js/main.e2e79644.chunk.js",
+  "main.js.map": "/podomoro-timer/static/js/main.e2e79644.chunk.js.map",
+  "runtime~main.js": "/podomoro-timer/static/js/runtime~main.d6c1f795.js",
+  "runtime~main.js.map": "/podomoro-timer/static/js/runtime~main.d6c1f795.js.map",
+  "static/css/2.a186d080.chunk.css": "/podomoro-timer/static/css/2.a186d080.chunk.css",
+  "static/js/2.a34f7281.chunk.js": "/podomoro-timer/static/js/2.a34f7281.chunk.js",
+  "static/js/2.a34f7281.chunk.js.map": "/podomoro-timer/static/js/2.a34f7281.chunk.js.map",
+  "index.html": "/podomoro-timer/index.html",
+  "precache-manifest.90af7a04cc849eea19420cfeb29c42ea.js": "/podomoro-timer/precache-manifest.90af7a04cc849eea19420cfeb29c42ea.js",
+  "service-worker.js": "/podomoro-timer/service-worker.js",
+  "static/css/2.a186d080.chunk.css.map": "/podomoro-timer/static/css/2.a186d080.chunk.css.map",
+  "static/css/main.27618c48.chunk.css.map": "/podomoro-timer/static/css/main.27618c48.chunk.css.map",
+  "static/media/alarm.mp3": "/podomoro-timer/static/media/alarm.61eb5a40.mp3"
+}

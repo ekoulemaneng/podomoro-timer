@@ -1,0 +1,2 @@
+body,html{height:100%}body{background-color:#dcdcdc!important}#root{width:95%;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}@media (min-width:576px){#root{width:80%}}@media (min-width:768px){#root{width:65%}}@media (min-width:992px){#root{width:50%}}#break-decrement,#break-increment,#session-decrement,#session-increment{padding:.25rem .5rem}#break-length,#session-length{width:30px;font-size:1.15rem}
+/*# sourceMappingURL=main.27618c48.chunk.css.map */
